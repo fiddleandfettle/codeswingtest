@@ -124,7 +124,7 @@ header {
 main {
     height: auto;
     width: 100%;
-    min-height: calc(100vh - 277px);
+    /* min-height: calc(100vh - 277px); */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
